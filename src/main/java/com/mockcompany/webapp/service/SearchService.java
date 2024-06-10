@@ -46,6 +46,6 @@ public class SearchService {
             }
 
         }
-        return Collections.emptyList();
+        return itemList;
     }
 }
